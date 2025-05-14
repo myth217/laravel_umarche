@@ -2,6 +2,6 @@
     <div>{{$title}}</div>
     <div>画像</div>
     <div>{{$content}}</div>
-    <div></div>
+    <div>{{$message}}</div>
 
 </div>
