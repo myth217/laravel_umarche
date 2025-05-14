@@ -1,3 +1,3 @@
-
-
-cop1
+<x-test.app>
+    comps
+</x-test.app>
